@@ -1,4 +1,6 @@
-### Hi there 👋
+- Hi I'm Frederick.
+- UoA Compsci graduate
+- Mainly interested in programming with JavaScript, Java, Python and C.
 
 <!--
 **fhy436/fhy436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
