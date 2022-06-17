@@ -1,18 +1,12 @@
-- Hi I'm Frederick.
-- UoA Compsci graduate
-- Mainly interested in programming with JavaScript, Java, Python and C.
+- I'm Frederick, a University of Auckland computer science graduate.
+- Currently interning with Mission Ready
+- Interested in full-stack development
 
-<!--
-**fhy436/fhy436** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages - Python, Java, Javascript, C, R
+Frontend - React, HTML, CSS, React Styled Components
+Backend - Node, Express, Mongoose
+Database - MongoDB, MySQL
+Cloud Services - AWS Lex, Google Cloud Vision, Azure LUIS, Azure Bing Search, Firebase
+Containers - Docker
